@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/docker/docker/pkg/homedir"
+	"github.com/jdesk/docker/pkg/homedir"
 )
 
 const (
